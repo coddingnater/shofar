@@ -1360,6 +1360,7 @@ section.artist ul > li p {
         width: 100%;
         white-space: nowrap;
         overflow-x: scroll;
+        overflow-y: hidden;
     }
     div.wrap .leftArea ul li:not(:first-child),
     div.wrap .rightArea ul li:not(:first-child) {
