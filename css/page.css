@@ -2564,6 +2564,7 @@ section.artist ul > li p {
         resize: none;
         margin-top: 7px;
         width: 66.5%;
+        float: left;
     }
     article.auditionmain form ul li > a {
         background-color: #5A5A5A;
