@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist list
+    </title>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+    <script src="js/shofar.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">S.
+                        <span>SHOFAR MUSIC</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="concert.html">Concert
+                        <span>CALENDER</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="audition.html">Audition
+                        <span>Apply</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="list.html">Artist
+                        <span>ALL MUSITION</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <article class="auditionmain">
+        <form action="">
+            <div class="h2wrap">
+                <h2>AUDITION</h2>
+            </div>
+            <div class="text">Apply for an audition</div>
+            <a href="file/down.docx">Audition application form</a>
+            <span><mark>*</mark> mark is mandatory</span>
+            <ul>
+                <li>
+                    <label for="">* Support Areas</label>
+                    <select name="" id="" required>
+                        <option value="null">please select</option>
+                        <option value="1">male solo singer-songwriter</option>
+                        <option value="2">female solo singer-songwriter</option>
+                        <option value="3">duo</option>
+                        <option value="4">Group (3 or more)</option>
+                        <option value="5">etc</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="userName">* name</label>
+                    <input type="text" id="userName" placeholder="Please enter your name" required>
+                </li>
+                <li>
+                    <label for="userPhone">* cell phone</label>
+                    <input type="tel" id="userPhone" placeholder="Please enter your mobile number ex)010-1234-5678" required>
+                </li>
+                <li>
+                    <label for="userEmail">* e-mail</label>
+                    <input type="email" id="userEmail" placeholder="Please enter your email address ex)member@shofar-music.com" required>
+                </li>
+                <li>
+                    <label for="userParagrapy">* Brief introduction</label>
+                    <textarea id="userParagrapy" cols="30" rows="10" required></textarea>
+                </li>
+                <li>
+                    <label for="">* Attachment 1 (audition application)</label>
+                    <a href="file/down.docx">Find files</a>
+                    <span>Please select a file</span>
+                </li>
+                <li>
+                    <label for="">* Attachment 2 (photo, demo, video)</label>
+                    <a href="file/down.docx">Find files</a>
+                    <span>Please select a file</span>
+                        <p> 
+                            * Please attach uncorrected photos for photos, mp3 for demos, and mp4 for videos.<br>
+                            * Please upload a zip file or a single file with a capacity of 10MB or less.<br>
+                            * If the capacity exceeds 10MB, please send it to audition@shofar-ent.com
+                        </p>
+                </li>
+                <li>
+                    <label for="userUrl">* Attachment 2 (video URL)</label>
+                    <input type="url" id="userUrl" placeholder="Enter the url of the video" required>
+                    <p>* If the video file is large, please enter it in the form of a URL.</p>
+                </li>
+            </ul>
+            <div class="button">
+                <input type="submit" value="Apply">
+                <input type="reset" value="cancel">
+            </div>
+        </form>
+    </article>
+    <div class="footarea">
+        COPYRIGHT &copy; 2021 SHOFAR ENTERTAINMENT. ALL RIGHTS RESERVED.
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,232 @@
+body,html{
+    height: 100%;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+
+@media screen and (max-width:767px){
+    header{
+        position: fixed;
+        width: 100%;
+        max-width: 767px;
+        z-index: 100;
+        padding: 15px 3.47%;
+        box-sizing: border-box;
+    }
+
+    header nav ul::after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header nav ul li:not(:first-of-type){
+        margin-left: 3.47%;
+    }
+    header nav ul li{
+        display: block;
+        position: relative; 
+        float: left;
+        width: 20.66%;
+    } 
+    header nav ul li a{
+        display: block;
+        font-family: 'Titillium Web';
+        font-size: 12px;
+        font-weight: 300;
+        color: black;
+    }
+    header nav ul li a span{
+        display: none;
+    }
+    header nav ul li a{
+        transition-property: color;
+        transition-duration: 1s;
+    }
+    header nav ul li:hover > *{
+        color: #f93706;
+    }
+    header nav ul li:nth-child(2),
+    header nav ul li:nth-child(4){
+        text-align: center;
+    }
+
+    header nav ul li:nth-child(3){
+        text-align: right;
+    }
+    header nav ul li:nth-child(3),
+    header nav ul li:nth-child(4){
+        float: right;
+    }
+
+
+
+    body > div.footarea{
+        display: none;
+    }
+
+}
+@media screen and (min-width:768px) and (max-width:1279px){
+    header{
+        position: fixed;
+        width: 100%;
+        max-width: 1279px;
+        z-index: 100;
+        padding: 15px 3.47%;
+        box-sizing: border-box;
+    }
+
+    header nav ul::after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header nav ul li{
+        display: block;
+        position: relative;
+        float: left;
+        width: 8.3%;
+    }
+    header nav ul li:nth-child(4){
+        width: 5.5%;
+    }
+    header nav ul li a{
+        display: block;
+        font-family: 'Titillium Web';
+        /* font-size: 32px; */
+        font-size: 2.2vw;
+        font-weight: 300;
+        color: black;
+    }
+    header nav ul li a span{
+        display: none;
+    }
+    header nav ul li a{
+        transition-property: color;
+        transition-duration: 1s;
+    }
+    header nav ul li:hover > *{
+        color: #f93706;
+    }
+    header nav ul li:nth-child(3),
+    header nav ul li:nth-child(4){
+        float: right;
+        text-align: right;
+    }
+
+    header nav > ul > li:nth-child(2),
+    header nav > ul > li:nth-child(3){
+        margin-left: 6.94%;
+    }
+
+    header nav ul li a span{
+        text-align: left;
+    }
+    header nav ul li a span{
+        white-space: nowrap;
+    }
+
+    body > div.footarea{
+        font-family: 'Dm sans';
+        font-size: 14px;
+        font-weight: 400;
+        padding: 20px 0;
+        background-color: black;
+        color: white;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+    }
+
+}
+
+@media screen and (min-width:1280px){
+    header{
+        position: fixed;
+        width: 100%;
+        max-width: 1440px;
+        z-index: 100;
+        padding: 23.5px 3.47%;
+        box-sizing: border-box;
+    }
+
+    ul::after{
+        content: '';
+        display: block;
+        clear: both;
+    }
+    header nav ul li{
+        display: block;
+        position: relative;
+        float: left;
+        width: 8.3%;
+    }
+    header nav ul li:nth-child(4){
+        width: 5.5%;
+    }
+    header nav ul li a{
+        display: block;
+        font-family: 'Titillium Web';
+        /* font-size: 32px; */
+        font-size: 2.2vw;
+        font-weight: 300;
+        color: black;
+    }
+    header nav ul li a span{
+        display: block;
+        text-transform: uppercase;
+        font-family: 'DM Sans';
+        font-weight:400;
+        font-size: 11px;
+        transition-property: letter-spacing;
+        transition-duration: 0.8s;
+        padding-top: 20px;
+    }
+    header nav ul li a{
+        transition-property: color;
+        transition-duration: 1s;
+    }
+    header nav ul li:hover > *{
+        color: #f93706;
+    }
+    header nav ul li:hover a span{
+        letter-spacing: 1px;
+    }
+    header nav ul li:nth-child(3),
+    header nav ul li:nth-child(4){
+        float: right;
+        text-align: right;
+    }
+
+    header nav > ul > li:nth-child(2),
+    header nav > ul > li:nth-child(3){
+        margin-left: 6.94%;
+    }
+
+    header nav ul li a span{
+        text-align: left;
+    }
+    header nav ul li a span{
+        white-space: nowrap;
+    }
+
+    body > div.footarea{
+        font-family: 'Dm sans';
+        font-size: 14px;
+        font-weight: 400;
+        padding: 20px 0;
+        background-color: black;
+        color: white;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+    }
+
+}
