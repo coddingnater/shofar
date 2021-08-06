@@ -1388,6 +1388,8 @@ section.artist ul > li p {
     div.wrap .leftArea ul li h2 {
         font-family: 'Poppins';
         white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
         font-size: 12px;
         font-weight: 500;
     }
