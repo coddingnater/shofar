@@ -73,7 +73,7 @@
         
         //! carousel
         minSlides: 1,  //* default: 1. 최소 노출 슬라이드 장수.
-        maxSlides: 5,  //?default: 1. 최대 노출 슬라이드 장수.
+        maxSlides: 15,  //?default: 1. 최대 노출 슬라이드 장수.
         slideWidth: 270,  //default: 0. 슬라이드 너비.
    
     });
