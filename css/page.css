@@ -9886,14 +9886,14 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     }
     article.audition_contaner div.btnwrap > a {
         display: inline-block;
-        width: 20vw;
+        width: 20%;
         background: black;
         color: white;
         text-align: center;
         padding: 20px 30px;
         font-weight: 400;
         font-family: 'Dm sans';
-        font-size: 1.11vw;
+        font-size: 16px;
         text-transform: uppercase;
         box-sizing: border-box;
         white-space: nowrap;
