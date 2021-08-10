@@ -7022,7 +7022,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
     }
     section.main01 .main01foot ul li:not(:nth-child(1)):not(:nth-child(5)) a {
         font-family: 'Bodoni Moda';
-        font-size: 1.25vw;
+        font-size: 18px;
         color: #74716a;
         letter-spacing: -1.5px;
         font-weight: 400;
@@ -7046,7 +7046,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         background: transparent;
         border: none;
         font-family: 'DM Sans';
-        font-size: 0.97vw;
+        font-size: 14px;
         font-weight: 400;
         width: 100%;
     }
