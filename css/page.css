@@ -7864,6 +7864,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
     article.concert > span > a{
         padding: 20px;
         display: block;
+        font-size: 1vw;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
@@ -7878,7 +7879,10 @@ div.wrap section div.sns_contaner a:nth-child(3) {
     }
     article.concert .bx-wrapper{
         box-shadow: none; border: none;
-        max-width: 1440px !important;
+        /* max-width: 1440px !important; */
+        position: absolute;
+        bottom: -7px;
+        left: 0;
     }
     /* article.concert .bx-wrapper .bx-viewport{
     } */
