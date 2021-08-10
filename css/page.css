@@ -9792,7 +9792,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         margin: 0 auto;
     }
     article.audition_contaner > p {
-        border-top: 1.38vw solid black;
+        border-top: 20px solid black;
         width: 55%;
         text-align: center;
         margin: 0 auto;
