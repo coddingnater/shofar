@@ -9946,14 +9946,14 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         background-color: black;
         margin: 0 7.5% 50px 0;
         text-align: center;
-        width: 25%;
+        width: 20%;
         box-sizing: border-box;
-        font-size: 1.25vw;
+        font-size: 16px;
         margin: 0 7.5% 50px auto;
     }
     article.auditionmain form > span {
         text-align: right;
-        font-size: 1.11vw;
+        font-size: 16px;
         margin-bottom: 10px;
         padding-right: 7.5%;
     }
@@ -9978,7 +9978,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     }
     article.auditionmain form ul li label {
         text-align: center;
-        font-size: 1.11vw;
+        font-size: 16px;
         width: 27%;
         color: white;
         background-color: #5A5A5A;
@@ -10012,14 +10012,14 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     article.auditionmain form ul li select {
         padding: 12px;
         margin-top: 7px;
-        font-size: 1.11vw;
+        font-size: 16px;
         width: 35%;
         text-transform: uppercase;
     }
     article.auditionmain form ul li input {
         width: 67%;
         padding: 12px 13px;
-        font-size: 1.11vw;
+        font-size: 16px;
         margin-top: 7px;
         box-sizing: border-box;
     }
@@ -10033,7 +10033,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         text-transform: uppercase;
         color: white;
         width: 10%;
-        font-size: 1.11vw;
+        font-size: 16px;
         padding: 12px;
         display: block;
         text-align: center;
@@ -10043,7 +10043,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         padding: 12px 0;
         display: block;
         margin: 7px 0 0 10px;
-        font-size: 1.11vw;
+        font-size: 16px;
         text-transform: uppercase;
 
     }
@@ -10051,19 +10051,19 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         width: 66%;
         text-transform: uppercase;
         margin-top: 12px;
-        font-size: 1.11vw;
+        font-size: 16px;
     }
     article.auditionmain form div.button {
         width: 100%;
         text-align: center;
     }
     article.auditionmain form div.button input {
-        padding: 20px 15px;
+        padding: 13px 10px;
         text-transform: uppercase;
-        width: 15%;
+        width: 11%;
         border: none;
         color: white;
-        font-size: 1.11vw;
+        font-size: 16px;
     }
     article.auditionmain form div.button input[type='submit'] {
         background-color: black;
