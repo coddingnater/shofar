@@ -7862,9 +7862,9 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         top:35%;
     }
     article.concert > span > a{
-        padding: 20px;
+        padding: 1.38vw;
         display: block;
-        font-size: 1vw;
+        font-size: 2vw;
         background-position: center;
         background-size: contain;
         background-repeat: no-repeat;
