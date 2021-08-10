@@ -9801,7 +9801,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         text-align: center;
         margin: 0 auto;
         padding: 50px 8%;
-        font-size: 0.97vw;
+        font-size: 14px;
         line-height: 22px;
         font-family: 'Dm sans';
         box-sizing: border-box;
@@ -9862,7 +9862,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     }
     article.audition_contaner ul li small,
     article.audition_contaner ul li strong {
-        font-size: 0.97vw;
+        font-size: 14px;
         line-height: 18px;
         font-family: 'Dm sans';
         float: left;
