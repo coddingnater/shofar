@@ -7685,8 +7685,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         box-sizing: border-box;
         justify-content: space-between;
         align-items: baseline;
-        /* font-size: 6.7vw; */
-        font-size: 6.7vw;
+        font-size: 6.6vw;
     }
     section.main05 ul li:nth-child(1) {
         justify-content: center;
