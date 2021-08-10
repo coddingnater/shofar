@@ -8600,7 +8600,8 @@ div.wrap section div.sns_contaner a:nth-child(3) {
     div.wrap {
         max-width: 1440px;
         margin: 0 auto;
-        padding-top: 90px;
+        /* padding-top: 90px; */
+        padding-top: 6.25vw;
     }
     div.wrap::after {
         content: '';
