@@ -149,7 +149,7 @@ ul,ol{
     header{
         position: fixed;
         width: 100%;
-        max-width: 1440px;
+        /* max-width: 1440px; */
         z-index: 100;
         padding: 23.5px 3.47%;
         box-sizing: border-box;
