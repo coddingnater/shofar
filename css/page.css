@@ -6798,7 +6798,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         color: #f93700;
         text-transform: uppercase;
         font-family: 'Dm sans';
-        font-size: 11px;
+        font-size: 0.76vw;
         transform: rotate(-30deg);
     }
     section.main01 div.length {
