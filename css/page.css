@@ -9671,7 +9671,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         opacity: 0.4;
     }
 
-    div.wrap .rightArea ul li div > span,
+    div.wrap .rightArea ul li div > a,
     div.wrap .rightArea ul li div h3 {
         transition: 0.5s;
     }
@@ -9680,7 +9680,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         width: 100%;
         cursor: pointer;
     }
-    div.wrap .rightArea ul li div > span {
+    div.wrap .rightArea ul li div > a {
         opacity: 0;
         display: block;
         width: 100%;
@@ -9691,7 +9691,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
         background: url("../images/play_icon.png") no-repeat center;
         background-color: rgba(0,0,0,0.3);
     }
-    div.wrap .rightArea ul li div:hover > span,
+    div.wrap .rightArea ul li div:hover > a,
     div.wrap .rightArea ul li div:hover h3 {
         opacity: 1;
     }
