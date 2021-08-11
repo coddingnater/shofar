@@ -8184,20 +8184,22 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         background-size: contain;
     }
     section.artist ul li:not(:nth-child(1)) div.circle {
-        width: 200px;
-        height: 200px;
+        width: 13.88vw;
+        height: 13.88vw;
         border-radius: 50%;
         left: -30px;
     }
     section.artist ul li:nth-child(1) div.circle {
-        width: 500px;
-        height: 500px;
+        width: 37vw;
+        height: 37vw;
         border-radius: 50%;
         border: 30px solid #c9e9e7;
         top: 100px;
         right: -153px;
         z-index: 1;
-        background: url("../images/shofarmusicdiv.jpg") no-repeat center;
+        background-image: url("../images/shofarmusicdiv.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     section.artist ul li:nth-child(1) div.rangle {
         width: 50px;
