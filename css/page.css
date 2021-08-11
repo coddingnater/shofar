@@ -9562,7 +9562,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     div.wrap section div.paragrapy p {
         font-family: 'Poppins';
         font-weight: 300;
-        font-size: 1.6vw;
+        font-size: 24px;
         line-height: 32px;
         text-align: left;
         margin-left: 14%;
@@ -9570,7 +9570,7 @@ div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
     div.wrap section div.paragrapy p span {
         font-family: 'Poppins';
         font-weight: 300;
-        font-size: 2vw;
+        font-size: 22px;
         line-height: 35px;
         color: white;
         display: block;
