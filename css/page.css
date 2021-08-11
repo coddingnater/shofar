@@ -8011,7 +8011,7 @@ div.wrap section div.sns_contaner a:nth-child(3) {
     }
     article.concert div.ex_box div.content_banner{
         padding: 6% 3%;
-        margin: 13% auto;
+        margin: 8% auto;
         width: 600px;
         height: 550px;
         background-color: white;
@@ -8198,7 +8198,8 @@ div.wrap section div.sns_contaner a:nth-child(3) {
         right: -153px;
         z-index: 1;
         background-image: url("../images/shofarmusicdiv.jpg");
-        background-size: cover;
+        /* background-size: cover; */
+        background-size: 120%;
         background-repeat: no-repeat;
     }
     section.artist ul li:nth-child(1) div.rangle {
@@ -9382,24 +9383,24 @@ div.wrap section div.sns_contaner a:nth-child(3) {
 
 
     div.wrap section.red ul li:nth-child(1) strong.active ~ p {
-        font-size: 16px;
+        font-size: 14px;
         line-height: 22px;
         padding-left: 4vw;
     }
     div.wrap section.red ul li:nth-child(2) strong.active ~ p {
-        font-size: 16px;
+        font-size: 14px;
         line-height: 40px;
         white-space: nowrap;
         padding-left: 1.5vw;
     }
     div.wrap section.red ul li:nth-child(3) strong.active ~ p {
-        font-size: 16px;
+        font-size: 14px;
         line-height: 28px;
         white-space: nowrap;
         padding-left: 1.5vw;
     }
     div.wrap section.red ul li:nth-child(4) strong.active ~ p {
-        font-size: 16px;
+        font-size: 14px;
         line-height: 28px;
         white-space: nowrap;
         padding-left: 0.5vw;
@@ -9409,22 +9410,22 @@ div.wrap section div.sns_contaner a:nth-child(3) {
 /*--------------------p부분 컨트롤 볼빨간 fin-------------------------------*/
 
 div.wrap section.boramiyu ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 30px;
     padding-left: 5vw;
 }
 div.wrap section.boramiyu ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 40px;
     white-space: nowrap;
 }
 div.wrap section.boramiyu ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 32px;
     white-space: nowrap;
 }
 div.wrap section.boramiyu ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 8vw;
@@ -9435,22 +9436,22 @@ div.wrap section.boramiyu ul li:nth-child(4) strong.active ~ p {
 
 
 div.wrap section.wh3n ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 30px;
     padding-left: 5vw;
 }
 div.wrap section.wh3n ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 40px;
     white-space: nowrap;
 }
 div.wrap section.wh3n ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 32px;
     white-space: nowrap;
 }
 div.wrap section.wh3n ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 8vw;
@@ -9459,23 +9460,23 @@ div.wrap section.wh3n ul li:nth-child(4) strong.active ~ p {
 /*--------------------p부분 컨트롤 wh3n fin-------------------------------*/
 
 div.wrap section.choiyuri ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     padding-left: 8vw;
 }
 div.wrap section.choiyuri ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
 }
 div.wrap section.choiyuri ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
 }
 div.wrap section.choiyuri ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
@@ -9484,70 +9485,70 @@ div.wrap section.choiyuri ul li:nth-child(4) strong.active ~ p {
 
 
 div.wrap section.kimjisoo ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     padding-left: 8vw;
 }
 div.wrap section.kimjisoo ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
 }
 div.wrap section.kimjisoo ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
 }
 div.wrap section.kimjisoo ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
 }
 /*--------------------p부분 컨트롤 kimjisoo fin-------------------------------*/
 div.wrap section.twenty ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     padding-left: 8vw;
 }
 div.wrap section.twenty ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
 }
 div.wrap section.twenty ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
 }
 div.wrap section.twenty ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 4vw;
 }
 /*--------------------p부분 컨트롤 twenty fin-------------------------------*/
 div.wrap section.sweden ul li:nth-child(1) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     padding-left: 3vw;
     text-align: center;
 }
 div.wrap section.sweden ul li:nth-child(2) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 30px;
     white-space: nowrap;
     padding-left: 0vw;
 }
 div.wrap section.sweden ul li:nth-child(3) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
 }
 div.wrap section.sweden ul li:nth-child(4) strong.active ~ p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 28px;
     white-space: nowrap;
     padding-left: 7vw;
